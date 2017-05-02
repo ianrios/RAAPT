@@ -1,0 +1,18 @@
+normalize audio?
+
+low lead filter out mids and highs, to be used for bass
+
+mid lead filter out lows and shelf mids; to be used for chords
+
+hi lead filter out mids and lows; to be used for arp
+
+Take midi input file and send it to sampler that plays drums
+in parallel,
+take another midi flie and send it to granulator that plays notes
+granulator also should take in line ramps and general fun data
+
+make granulator work
+
+put current sample time in input window
+
+show where sample is in original file
