@@ -12,7 +12,7 @@ The RAAPT project generates rhythmic musical structures by assigning pre-made te
 
 To spin up project, you will need Max MSP 7 installed on your computer.
 
-Double click on `Patches/RAAPT/MainRAAPT.maxpat` to start
+Double click on `patches/MainRAAPT.maxpat` to start
 
 ## Developing
 
